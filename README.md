@@ -15,9 +15,11 @@
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
+## 📊 GitHub Stats:
 <div>
   <a href="https://github.com/daiaanebarbosaf">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=daiaanebarbosaf&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiaanebarbosaf&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiaanebarbosaf&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
