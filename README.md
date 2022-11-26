@@ -1,4 +1,4 @@
-### Olá, eu sou a Daiane Farias 👋
+### 💫 Olá, eu sou a Daiane Farias 👋
 
 - 🔭 Hoje trabalho como Técnica de Informática em uma instituição de ensino e estou em transição de carreira para Desenvolvedora Web.
 - 🌱 Estou estudando HTML, CSS e JavaScript.
