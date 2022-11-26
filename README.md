@@ -1,9 +1,18 @@
 ### 💫 Olá, eu sou a Daiane Farias 👋
 
-- 🔭 Hoje trabalho como Técnica de Informática em uma instituição de ensino e estou em transição de carreira para Desenvolvedora Web.
-- 🌱 Estou estudando HTML, CSS e JavaScript.
-- 📫 Pode falar comigo através do email: daiaanebarbosaf@gmail.com.
-- 😄 Pronouns: ela/dela
+- 🔭 Hoje trabalho como Técnica de Informática em uma instituição de ensino.<br>
+
+- 👯‍♂️ Atualmente procuro uma oportunidade para desenvolver softwares e sites profissionalmente.<br>
+
+- 🌱 Estou estudando HTML, CSS e JavaScript.<br>
+
+- 💬  Pergunte-me sobre tecnologia, o que eu não souber a gente aprende.<br>
+
+- ⚡ Paulista, criada na Bahia e muita vontade de vencer na vida transformando a minha realidade e de todos que me sercam através da Tecnologia.<br>
+
+- 📫 Pode falar comigo através do email: daiaanebarbosaf@gmail.com.<br>
+
+- 😄 Pronouns: ela/dela<br>
 
 <div>
   <a href="https://github.com/daiaanebarbosaf">
