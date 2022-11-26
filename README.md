@@ -20,7 +20,7 @@
   <a href="https://github.com/daiaanebarbosaf">
   <img height="162em" src="https://github-readme-stats.vercel.app/api?username=daiaanebarbosaf&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="162em" src="https://github-readme-streak-stats.herokuapp.com/?user=daiaanebarbosaf&theme=material-palenight&hide_border=false"/>   
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiaanebarbosaf&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiaanebarbosaf&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 ### ✍️ Random Dev Quote
