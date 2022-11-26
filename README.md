@@ -28,3 +28,7 @@
    <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiaanebarbosaf&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
