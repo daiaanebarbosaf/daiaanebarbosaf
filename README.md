@@ -24,6 +24,6 @@
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <p>"Ninguém sabe tanto que não tenha o que aprender e ninguém sabe tão pouco que não tenha o que ensinar... - Blaise Pascal"</p>
 
 
