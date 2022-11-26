@@ -6,7 +6,10 @@
 - 💬  Pergunte-me sobre tecnologia, o que eu não souber a gente aprende.<br>
 - ⚡ Paulista, criada na Bahia e muita vontade de vencer na vida transformando a minha realidade e de todos que me sercam através da Tecnologia.<br>
 - 📫 Pode falar comigo através do email: daiaanebarbosaf@gmail.com.<br>
-- 😄 Pronouns: ela/dela<br>
+- 😄 Pronouns: ela/dela<br><br>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/daiaanebarbosaf#9926) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/daiaanebarbosaf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daiaanebarbosaf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daiaanebarbosaf) 
 
 <div>
   <a href="https://github.com/daiaanebarbosaf">
