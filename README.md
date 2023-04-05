@@ -4,7 +4,7 @@
 - 👯‍♂️ Atualmente procuro uma oportunidade para desenvolver softwares e sites profissionalmente.<br>
 - 🌱 Estou estudando HTML, CSS e JavaScript.<br>
 - 💬  Pergunte-me sobre tecnologia, o que eu não souber a gente aprende.<br>
-- ⚡ Paulista, criada na Bahia e muita vontade de vencer na vida transformando a minha realidade e de todos que me sercam através da Tecnologia.<br>
+- ⚡ Paulista, criada na Bahia e muita vontade de vencer na vida transformando a minha realidade e de todos que me cercam através da Tecnologia.<br>
 - 📫 Pode falar comigo através do email: daiaanebarbosaf@gmail.com.<br>
 - 😄 Pronouns: ela/dela<br>
 
