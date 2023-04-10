@@ -1,6 +1,6 @@
 ### 💫 Olá, eu sou a Daiane Farias 👋
 
-- 🔭 Hoje trabalho como Técnica de Informática em uma instituição de ensino.<br>
+- 🔭 Hoje estou Técnica de Informática em uma instituição de ensino.<br>
 - 👯‍♂️ Atualmente procuro uma oportunidade para desenvolver softwares e sites profissionalmente.<br>
 - 🌱 Estou estudando HTML, CSS e JavaScript.<br>
 - 💬  Pergunte-me sobre tecnologia, o que eu não souber a gente aprende.<br>
