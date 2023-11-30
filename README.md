@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou Técnica de Informática em uma instituição de ensino.<br>
 - 👯‍♂️ Atualmente procuro uma oportunidade para desenvolver softwares e sites profissionalmente.<br>
-- 🌱 Estou estudando HTML, CSS e JavaScript.<br>
+- 🌱 Estou estudando HTML, CSS, React.js e Node.js.<br>
 - 💬  Pergunte-me sobre tecnologia, o que eu não souber a gente aprende.<br>
 - ⚡ Paulista, criada na Bahia e muita vontade de vencer na vida transformando a minha realidade e de todos que me cercam através da Tecnologia.<br>
 - 📫 Pode falar comigo através do email: daiaanebarbosaf@gmail.com<br>
@@ -18,11 +18,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 	
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![React](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 ## 📊 GitHub Stats:
 <div>
