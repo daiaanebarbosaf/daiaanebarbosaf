@@ -22,7 +22,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Reactjs](https://img.shields.io/badge/React-%23000000.svg?style=flat&logo=react&logoColor=whit)
-![Nodejs]([https://img.shields.io/badge/React-%23000000.svg?style=flat&logo=react&logoColor=whit](https://camo.githubusercontent.com/cbdc90067739c38b703ece61fc9df2bc0ae21d8b9994e5463fff4102b69d9874/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64654a532d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73))
+![Nodejs](https://camo.githubusercontent.com/cbdc90067739c38b703ece61fc9df2bc0ae21d8b9994e5463fff4102b69d9874/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64654a532d3035313232413f7374796c653d666c6174266c6f676f3d6e6f64652e6a73)
 
 
 ## 📊 GitHub Stats:
